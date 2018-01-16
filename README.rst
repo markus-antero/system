@@ -21,9 +21,7 @@ Quantopia
 ---------
 
 - https://www.quantopian.com/
-- https://github.com/quantopian
-
-	- https://github.com/quantopian/alphalens
-	- https://github.com/quantopian/pyfolio
-	- https://github.com/quantopian/zipline
-	- https://github.com/quantopian/research_public
+- https://github.com/quantopian/alphalens
+- https://github.com/quantopian/pyfolio
+- https://github.com/quantopian/zipline
+- https://github.com/quantopian/research_public
