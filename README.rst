@@ -10,7 +10,6 @@ Instead, using publicly available and authentic financial data is lot more appea
 The main language used in this project is Python. Links related:
 
 - http://systems-sciences.uni-graz.at/etextbook/content.html
-- https://www2.clarku.edu/~djoyce/complex/
 
 Blockchain
 ----------
