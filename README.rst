@@ -5,7 +5,7 @@ Main sources for this project are Quantopia and blockchain (Ethereum & Ripple). 
 The main motivation to use these platforms is available live data. 
 
 There is certain appeal to defining the system based on physical phenomena. However, finding data as input and practicality as an output is likely problematic.  
-Instead, defining a system with publicly available and authentic data as input is lot more appealing. 
+Instead, defining a system with publicly available and authentic data as input and predetermined output(s) is lot more appealing. 
 
 The main language used in this project is Python. Links related:
 
