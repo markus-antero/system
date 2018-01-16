@@ -2,7 +2,7 @@ Systems
 =======
 
 Main sources for this project are Quantopia and blockchain (Ethereum & Ripple). Both technologies are linked to financial services.
-The motivation to use these platforms is available live data. 
+The main motivation to use these platforms is available live data. 
 
 There is certain appeal to defining the system based on physical phenomena. However, finding practicality as an output is likely problematic.  
 Instead, using publicly available and authentic financial data is lot more appealing 
