@@ -113,36 +113,6 @@ scrapy shell at nedlaw
 		* '<a href="https://www.nedlaw.eu/intelligence/">“Superior Intelligence”</a>',
 		* '<a href="https://www.nedlaw.eu/idea-for-business/">Idea for Business</a>']
 				 
-	Footer links response.xpath("//li[contains (@class, 'simple-links-item simple-links-widget-item')]/a").extract()
-	
-		* Out[4]: 
-		* ['<a href="https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/" target="_blank" title="Twitter/python library. Link related: https://github.com/AnnaVM/Twitter_API" rel="nofollow">Tweepy</a>',
-		* '<a href="https://github.com/Esri/arcgis-python-api/tree/master/guide" target="_blank" title="Python projects to generate and execute ESRI maps." rel="nofollow">Esri Arcgis API</a>',
-		* '<a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks" target="_blank" title="Index-page for open python projects.">Python Index</a>',
-		* '<a href="https://arachnoid.com/IPython/index.html" target="_blank" title="Python programming">Mathematical programming</a>',
-		* '<a href="http://systems-sciences.uni-graz.at/etextbook/" target="_blank" title="">System paradigm</a>',
-		* '<a href="https://neo4j.com/developer/" target="_blank" title="Client and server side packages for RDF.">Graph programming Neo4J</a>',
-		* '<a href="https://franz.com/agraph/allegrograph/" target="_blank" title="">Allegro-Graph RDF</a>']
-
-	Tag cloud: response.xpath("//div[contains (@class, 'tagcloud')]/a").extract()
-
-		* Out[5]: 
-		* ['<a href="https://www.nedlaw.eu/tag/tag_banking/" class="tag-cloud-link tag-link-43 tag-link-position-1" style="font-size: 11.414634146341pt;" aria-label="banking (3 items)">banking</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_business/" class="tag-cloud-link tag-link-35 tag-link-position-2" style="font-size: 10.048780487805pt;" aria-label="business (2 items)">business</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_cheatsheet/" class="tag-cloud-link tag-link-37 tag-link-position-3" style="font-size: 11.414634146341pt;" aria-label="cheat-sheet (3 items)">cheat-sheet</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_climate/" class="tag-cloud-link tag-link-46 tag-link-position-4" style="font-size: 12.552845528455pt;" aria-label="climate (4 items)">climate</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_corruption/" class="tag-cloud-link tag-link-48 tag-link-position-5" style="font-size: 14.260162601626pt;" aria-label="corruption (6 items)">corruption</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_economy/" class="tag-cloud-link tag-link-42 tag-link-position-6" style="font-size: 16.878048780488pt;" aria-label="economics (11 items)">economics</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_election/" class="tag-cloud-link tag-link-40 tag-link-position-7" style="font-size: 14.260162601626pt;" aria-label="election (6 items)">election</a>',
-		* '<a href="https://www.nedlaw.eu/tag/elections/" class="tag-cloud-link tag-link-61 tag-link-position-8" style="font-size: 8pt;" aria-label="elections (1 item)">elections</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_law/" class="tag-cloud-link tag-link-33 tag-link-position-9" style="font-size: 18.585365853659pt;" aria-label="law (16 items)">law</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_media/" class="tag-cloud-link tag-link-31 tag-link-position-10" style="font-size: 16.422764227642pt;" aria-label="media (10 items)">media</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_politics/" class="tag-cloud-link tag-link-44 tag-link-position-11" style="font-size: 22pt;" aria-label="politics (33 items)">politics</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_post_truth/" class="tag-cloud-link tag-link-39 tag-link-position-12" style="font-size: 15.39837398374pt;" aria-label="post-truth (8 items)">post-truth</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_programming/" class="tag-cloud-link tag-link-47 tag-link-position-13" style="font-size: 11.414634146341pt;" aria-label="programming (3 items)">programming</a>',
-		* '<a href="https://www.nedlaw.eu/tag/tag_system/" class="tag-cloud-link tag-link-50 tag-link-position-14" style="font-size: 10.048780487805pt;" aria-label="system (2 items)">system</a>',
-		* '<a href="https://www.nedlaw.eu/tag/war/" class="tag-cloud-link tag-link-62 tag-link-position-15" style="font-size: 12.552845528455pt;" aria-label="war (4 items)">war</a>']
- 
 	
 Visualization
 -------------
