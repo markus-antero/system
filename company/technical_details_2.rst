@@ -39,20 +39,20 @@ Wikipedia API
 -------------
 
 Terminology for domain:
-	* 'banking (3 items)',
-    * 'business (2 items)',
-    * 'cheat-sheet (3 items)',
-    * 'climate (4 items)',
-    * 'corruption (6 items)',
-    * 'economics (11 items)',
-    * 'election (6 items)',
-    * 'law (16 items)',
-    * 'media (10 items)',
-    * 'politics (33 items)',
-    * 'post-truth (8 items)',
-    * 'programming (3 items)',
-    * 'system (2 items)',
-    * 'war (4 items)']  
+* 'banking (3 items)',
+* 'business (2 items)',
+* 'cheat-sheet (3 items)',
+* 'climate (4 items)',
+* 'corruption (6 items)',
+* 'economics (11 items)',
+* 'election (6 items)',
+* 'law (16 items)',
+* 'media (10 items)',
+* 'politics (33 items)',
+* 'post-truth (8 items)',
+* 'programming (3 items)',
+* 'system (2 items)',
+* 'war (4 items)']  
 			
 
 Collectting Data
