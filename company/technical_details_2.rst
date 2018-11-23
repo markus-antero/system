@@ -39,6 +39,7 @@ Wikipedia API
 -------------
 
 Terminology for domain:
+
 * 'banking (3 items)',
 * 'business (2 items)',
 * 'cheat-sheet (3 items)',
