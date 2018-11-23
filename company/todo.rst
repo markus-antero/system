@@ -48,6 +48,8 @@ Interlinked
 * Deploy to server				- undone
 * Put the code into github		- undone
 * Demo							- undone
+* Link to keyword using wiki    - done
+* Solve details for ip		    - done
 
 Documentation
 -------------
