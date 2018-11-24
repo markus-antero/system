@@ -1,245 +1,258 @@
 Summary
 =======
-	Markkanen Jussi
+Markkanen Jussi
 
-	Hosting platforms
-		https://www.inmotionhosting.com/home-l
+Hosting platforms
+	https://www.inmotionhosting.com/home-l
 	
-	Main platform
+Main platform
 	
-	To establish client sites 
-		https://www.thebalancesmb.com/bookkeeping-101-a-beginning-tutorial-392961
+To establish client sites 
+	https://www.thebalancesmb.com/bookkeeping-101-a-beginning-tutorial-392961
 	
-	automate bookkeeping python
-		https://luca.readthedocs.io/en/latest/
+automate bookkeeping python
+	https://luca.readthedocs.io/en/latest/
 	
-	Blue ocean strategy
-		https://en.wikipedia.org/wiki/Blue_Ocean_Strategy
+Blue ocean strategy
+	https://en.wikipedia.org/wiki/Blue_Ocean_Strategy
 		
-	profiling
-		https://www.discprofile.com/what-is-disc/overview/
+profiling
+	https://www.discprofile.com/what-is-disc/overview/
 	
-	Organisaatio	
-		Työttömyyskassa - SYT / AYT
-		Suomen yrittäjät
-		Finvera
-			https://www.finnvera.fi/eng/
-		
-		Toimitilat:
-			Microsoft Flux	
-				http://www.microsoftflux.com/
-
-			UMA
-				https://umaworkspace.com/
+Organisaatio	
+	Työttömyyskassa - SYT / AYT
+	Suomen yrittäjät
+	Finvera
+		https://www.finnvera.fi/eng/
+	
+	Toimitilat:
+		Microsoft Flux	
+			http://www.microsoftflux.com/
+		UMA
+			https://umaworkspace.com/
 				
-		Business Model Canvas
-			Facebook
+	Business Model Canvas
+		Facebook
 
-		Bisnode
-			https://finland.bisnode.fi/
+	Bisnode
+		https://finland.bisnode.fi/
 	
-	Markus Walden - Nedlaw Solutions, Suunnittelija
-	Chief Design Officer
+Markus Walden - Nedlaw Solutions, Suunnittelija
+Chief Design Officer
 	
-	Hinnan arviointi suhteessa kilpailijaan
+Hinnan arviointi suhteessa kilpailijaan
 		
-		Blue ocean strategy
-		Kai stoorback
-		Anssi Tuulenmäki - lupa ajatella toisella tavalla
+* Blue ocean strategy
+* Kai stoorback
+* Anssi Tuulenmäki - lupa ajatella toisella tavalla
 		
 
 Yritysneuvonta
 --------------
 
-	Liiketoimintasuunnitelma - Kartta
+Liiketoimintasuunnitelma - Kartta
 
-		Vuoden mittainen / 5 vuotis visio
-			Käytäntö aikatauluttaminen
+	Vuoden mittainen / 5 vuotis visio
+		Käytäntö aikatauluttaminen
 		
-		Liikeidea 
+	Liikeidea 
 			
-			Mitä
-				Ongelma jonka tuote ratkaisee
-				Erottuminen
+		Mitä
+		
+		* Ongelma jonka tuote ratkaisee
+		* Erottuminen
 			
-			Kenelle 
-				Asiakas / tavoittaminen
+		Kenelle 
+		
+		* Asiakas / tavoittaminen
 
-			Miten
-				Hinta
-				Tuote
-				Toimitila
+		Miten
+		
+		* Hinta
+		* Tuote
+		* Toimitila
 			
-		Osaaminen
-		Tuotteet ja palvelut
-		Asiakkaat
-		Markkinat ja kilpailevat
-		Markkinointi ja myynti
-		Talouden suunnittelu
-		Laskelmat (Rahoitus, myynti ja kannattavuus).
-		Työkalu lainan hakemiseen.
+		1. Osaaminen
+		2. Tuotteet ja palvelut
+		3. Asiakkaat
+		4. Markkinat ja kilpailevat
+		5. Markkinointi ja myynti
+		6. Talouden suunnittelu
+		7. Laskelmat (Rahoitus, myynti ja kannattavuus).
+		8. Työkalu lainan hakemiseen.
 		
-	Yrittäminen
-
-		Rahoituksen järjestäminen
+Yrittäminen
+-----------
+Rahoituksen järjestäminen
 		
-			Joukkorahoitus:
+	Joukkorahoitus:
 				
-				Vastikkeellisuus
+		Vastikkeellisuus
 					
-					kick starter
-						https://www.kickstarter.com/learn?ref=nav
+			kick starter
+
+			* https://www.kickstarter.com/learn?ref=nav
 					
-					BNI
-						http://bni.fi/fi/index
-						
-					Mesenaatti
-						https://mesenaatti.me/en/
-						
-					OP-yritystreffit
-					Kauppakamari
-		
-		Yritysmuodon valinta
-		Perustamisilmoitus kaupparekisteriin
-		Vakuutukset
-		Kirjanpidon järjestäminen
-
-		Verottaja järjestelmä / virheellinen.
-		Työajan minimointi - tuottavuuden maksimointi
-		Aikajana, päivittäinen
-		
-			Mitä, 
-			Milloin,
-			painoarvo,
+			BNI
 			
-		Asiantuntevan asenteen / luottamuksen tuominen
-		Liikeidea
-
-		Markkina
-			Ensimmäinen titlkausi on tappiollinen 
-			Markkinatuloaika 2 - 3 vuotta
+			* http://bni.fi/fi/index
+						
+			Mesenaatti
 			
-	Käyttöpääoma
+			* https://mesenaatti.me/en/
+						
+			OP-yritystreffit
 	
-		Mikä on tappiollisen liikeidea elinkaari?
-		Objektiivisuuden ongelma
-		Pankin oma ongelma 
-			Puolittainen 
-			
-		Yrityskaupan sykli (3 - 6 kuukautta, minimi)
-			
-			palaveri esittely,
-			palaveri valmistelu,
-			projekti,
-			laskutus,
-			päätös,
-			
-		Toimiva liikeidea
+			Kauppakamari
+		
+* Yritysmuodon valinta
+* Perustamisilmoitus kaupparekisteriin
+* Vakuutukset
+* Kirjanpidon järjestäminen
 
-			Kannattavuus
-			Tuloslaskelma
-			Markkina analyysi
+* Verottaja järjestelmä / virheellinen.
+* Työajan minimointi - tuottavuuden maksimointi
+* Aikajana, päivittäinen
+		
+	* Mitä, 
+	* Milloin,
+	* painoarvo,
 			
-	Suppiloteoria - Tiedostomaton ja tiedostettu ostaminen
+* Asiantuntevan asenteen / luottamuksen tuominen
+* Liikeidea
+
+Markkina
+	* Ensimmäinen titlkausi on tappiollinen 
+	* Markkinatuloaika 2 - 3 vuotta
+			
+Käyttöpääoma
 	
-		asiakkaan osto-profiili, valmius ostaa.
+	* Mikä on tappiollisen liikeidea elinkaari?
+	* Objektiivisuuden ongelma
+	* Pankin oma ongelma 
+		Puolittainen 
+			
+	Yrityskaupan sykli (3 - 6 kuukautta, minimi)
+			
+		* palaveri esittely,
+		* palaveri valmistelu,
+		* projekti,
+		* laskutus,
+		* päätös,
+			
+	Toimiva liikeidea
+
+		* Kannattavuus
+		* Tuloslaskelma
+		* Markkina analyysi
+			
+Suppiloteoria - Tiedostomaton ja tiedostettu ostaminen
+------------------------------------------------------	
+asiakkaan osto-profiili, valmius ostaa.
 		
-			Ostopolun määrittäminen		
-			Toimivat sisämarkkinat
+* Ostopolun määrittäminen		
+* Toimivat sisämarkkinat
 			
-				Rakenteelliset muutokset?
+Rakenteelliset muutokset?
 			
-			Sodan läpikäyneen sukupolven jälkeinen sukupolvi.
-			Markkinaselvitykset
+* Sodan läpikäyneen sukupolven jälkeinen sukupolvi.
+* Markkinaselvitykset
 			
-				Lisäarvo suhteessa kilpaileviin tuotteisiin.
-				Tuotteen pilotointi.
+	* Lisäarvo suhteessa kilpaileviin tuotteisiin.
+	* Tuotteen pilotointi.
 		
-				Ominaisuudet - operated by companies  
-					Määritelmä
-					Tuotteen ominaisuuksien summa
+Ominaisuudet - operated by companies  
+
+* Määritelmä
+* Tuotteen ominaisuuksien summa
 					
-					Definition:
-						Providing visible meta-layer to websites.
-						This enables dynamic content to be displayed without interaction by user.
+	Definition:
+	
+	* Providing visible meta-layer to websites.
+	* This enables dynamic content to be displayed without interaction by user.
 				
-				Edut,
-					Minkä ongelman tuote ratkaisee,
-					Miten tuote ratkaisee ongelman,
+Edut,
+
+* Minkä ongelman tuote ratkaisee,
+* Miten tuote ratkaisee ongelman,
 					
-					Benefit:
-						Increasing the visibility of the site for future development,
-						Provides objective and cumulative metrics to benefits future development,
+	Benefit:
+
+	* Increasing the visibility of the site for future development,
+	* Provides objective and cumulative metrics to benefits future development,
 					
-				Hyöty,
-					Edun kääntäminen ostajan maailmankuvaan
+Hyöty,
+
+* Edun kääntäminen ostajan maailmankuvaan
 					
-					Gain:
-						Reduces the cost for future requirements stage,
-						Makes development more meaningful,
-						Allows unbiased feedback to be received.
+	Gain:
+
+	* Reduces the cost for future requirements stage,
+	* Makes development more meaningful,
+	* Allows unbiased feedback to be received.
 					
-				Arvot,
-					Miten tuote hyödyttää maailmaa.
+Arvot,
+
+* Miten tuote hyödyttää maailmaa.
 					
-					Values:
-						Reduces development cycles,
+	Values:
+	
+	* Reduces development cycles,
 						
-		Sosiaalisen median rooli, Markkina
+Sosiaalisen median rooli, Markkina
+----------------------------------
+
+* Tunne-reaktion aikaansaaminen,
+* Confirmation bias reaktio,
+* Halu miellyttää.	
 			
-			Tunne-reaktion aikaansaaminen,
-			Confirmation bias reaktio,
-			Halu miellyttää.	
+Pääkanava
 			
-		Pääkanava
+* Myyntikanavan merkitys,
+* Kustannustehokas asiakkaan hankinta.
+* Näkyvyyden ongelma
 			
-			Myyntikanavan merkitys,
-			Kustannustehokas asiakkaan hankinta.
-			Näkyvyyden ongelma
-			
-				Näkyvyys,
-				Vastaanotettavuus,
-				tunnereaktion aikaansaaminen.
+	1. Näkyvyys,
+	2. Vastaanotettavuus,
+	3. tunnereaktion aikaansaaminen.
 				
-			Kaupallinen verkosto
+Kaupallinen verkosto
 			
-				Asiakashankinta 
-					
-					Kerrosmaisuus
-						
-						ensimmäisen tason kontaktit.
-							Ei rahalla, luottamussuhde,
-							Tasapainon löytäminen, oman ajan antaminen toisen aikaa vastaan.
-							
-							Ks. Satamapäällikkö ulapalla toimivalle veneelle.
-							YT23 kassabudjetti
+* Asiakashankinta 
+	Kerrosmaisuus
+		ensimmäisen tason kontaktit.
+			* Ei rahalla, luottamussuhde,
+			* Tasapainon löytäminen, oman ajan antaminen toisen aikaa vastaan.			
+				* Ks. Satamapäällikkö ulapalla toimivalle veneelle.
+				* YT23 kassabudjetti
 		
-		Profiili - disc, mvt
-			https://www.discprofile.com/what-is-disc/overview/
+Profiili - disc, mvt
+--------------------
+https://www.discprofile.com/what-is-disc/overview/
 			
-			Suunnittelija
-				Projektimainen
-				Hidas
-				Pikkutarkkuus
-				Ylilaadun tuottaminen
+Suunnittelija
+	Projektimainen
+	Hidas
+	Pikkutarkkuus
+	Ylilaadun tuottaminen
 				
-			Käynnistäjä
-				Ristiriitainen, ei tyylipisteitä keräävä.
-				ei haihattelua
+Käynnistäjä
+	Ristiriitainen, ei tyylipisteitä keräävä.
+		ei haihattelua
 				
-			Rakentaja
-				Kiinnostunut asioista
-				Suunnitelmallisuus.
+Rakentaja
+	Kiinnostunut asioista
+	Suunnitelmallisuus.
 			
-			Innostaja
-				Kiinnostunut ihmisistä
-				Rationaalisuuden puute
+Innostaja
+	Kiinnostunut ihmisistä
+	Rationaalisuuden puute
 							
-		Luottamusliiketoiminta
+Luottamusliiketoiminta
 			
-			Kaupallisen verkoston merkitys,
-			Markkinan konservatiivisuus,
-			Iso markkina / iso kysyntä, kova kilpailu.	
+* Kaupallisen verkoston merkitys,
+* Markkinan konservatiivisuus,
+* Iso markkina / iso kysyntä, kova kilpailu.	
 			
 
 	
